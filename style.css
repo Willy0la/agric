@@ -189,6 +189,7 @@ img{
     font-size: 32px;
     margin-bottom: 24px;
     color: #212121;
+    text-align: center;
 }
 
 .card p{
@@ -199,7 +200,7 @@ img{
     font-style: none;
     letter-spacing: 0.5px;
     line-height: 24px;
-    text-align: left;
+    text-align: center;
   
 }
 
